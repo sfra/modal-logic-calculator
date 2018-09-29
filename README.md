@@ -1,6 +1,12 @@
 modal-logic-calculator
 ======================
 
+
+Building:
+
+```
+csc *.cs -r:/usr/lib/mono/4.0-api/System.Windows.Forms.dll
+```
 Calculates value of formula in modal algebra
 
 
